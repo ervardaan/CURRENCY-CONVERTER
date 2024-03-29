@@ -1,0 +1,28 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "THIS CONVERTER USES ASYNC/AWAIT CYCLE TO GET CURRENCY CONVERSION DONE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ervardaan/CURRENCY-CONVERTER.git"
+  },
+  "keywords": [
+    "ASYNC",
+    "AWAIT",
+    "CURRENCY",
+    "CONVERTER",
+    "API",
+    "ASYNCHRONOUS",
+    "CYCLE"
+  ],
+  "author": "VARDAAN KAPOOR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ervardaan/CURRENCY-CONVERTER/issues"
+  },
+  "homepage": "https://github.com/ervardaan/CURRENCY-CONVERTER#readme"
+}
